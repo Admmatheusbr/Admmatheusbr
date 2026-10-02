@@ -2,7 +2,7 @@
 
 ### Administração + Tecnologia + IA
 
-Sou formado em Administração e desenvolvo soluções digitais para organizar processos, dados e rotinas de trabalho. Na **MDu.World**, conecto a visão administrativa à tecnologia e à inteligência artificial aplicada.
+Sou formado em Administração pela PUCRS e desenvolvo soluções digitais para organizar processos, dados e rotinas de trabalho. Na **MDu.World**, conecto a visão administrativa à tecnologia e à inteligência artificial aplicada.
 
 Meu foco é entender o problema, definir uma entrega útil e demonstrar o que funciona: automação de processos, ferramentas internas, organização de dados e IA para apoiar o trabalho.
 
@@ -28,6 +28,17 @@ Meu foco é entender o problema, definir uma entrega útil e demonstrar o que fu
 | [Memória e IA aplicada](cases/ia-aplicada.md) | Organizar conhecimento e selecionar registros por similaridade para apoiar consultas. | Projeto próprio; 6 testes aprovados com embeddings simulados em 02/10/2026. |
 
 Os cases incluem projetos próprios desenvolvidos com apoio de IA e um estudo acadêmico. As evidências se referem aos cenários descritos, sem atribuir resultados comerciais aos protótipos.
+
+## Administração como diferencial
+
+A visão administrativa orienta o diagnóstico: compreender o processo, organizar recursos e informações, identificar controles necessários e definir indicadores para avaliar a entrega.
+
+- **Processos e gestão:** mapear rotinas, responsabilidades, exceções e prioridades.
+- **Análise de dados:** organizar e validar registros para construir indicadores úteis à decisão.
+- **Controles administrativos:** estruturar conferência, rastreabilidade e documentação.
+- **Viabilidade da solução:** delimitar escopo, esforço, restrições e resultados a medir antes de ampliar.
+
+Essa abordagem conecta a necessidade do negócio à solução técnica. Os cases abaixo explicitam o que já foi demonstrado.
 
 ## Como posso contribuir
 
