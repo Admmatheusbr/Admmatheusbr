@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "name": "mdu-world-portfolio-documental",
+  "version": "1.1.0",
+  "reviewDate": "2026-10-02",
+  "language": "pt-BR",
+  "artifactType": "documentation-only",
+  "contact": "duarte.poa01@gmail.com",
+  "consumers": [
+    "business-reviewer",
+    "technical-reviewer",
+    "automated-review"
+  ],
+  "caseEvidence": [
+    {
+      "id": "administrative-control",
+      "stage": "local-prototype",
+      "verification": "isolated-synthetic-tests",
+      "passedTests": 3,
+      "productionVerified": false
+    },
+    {
+      "id": "semantic-memory",
+      "stage": "local-prototype",
+      "verification": "isolated-tests-with-simulated-embeddings",
+      "passedTests": 6,
+      "realInferenceVerified": false
+    },
+    {
+      "id": "library-catalog",
+      "stage": "academic-study",
+      "verification": "code-review-only",
+      "executionVerified": false
+    }
+  ],
+  "publicationScope": {
+    "privateDatabasesIncluded": false,
+    "credentialsIncluded": false,
+    "localCoreSourceIncluded": false,
+    "clientDocumentsIncluded": false,
+    "thirdPartyEndorsementsClaimed": false
+  },
+  "securityScope": "Static checks apply to this documentation package only; application security was not certified.",
+  "runtimeDependencies": [],
+  "registry": null,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3952,
+      "sha256": "9a8d3275c1e8bf53d8663659e45e94032b61c5afb92944032793c1c005d57c14"
+    },
+    {
+      "path": "VERIFICACAO.md",
+      "bytes": 2107,
+      "sha256": "fcafa138e690d7dba4952f3d1e8198cea965decb3c46ceabf3b13e56787fefaf"
+    },
+    {
+      "path": "cases/biblioteca-virtual.md",
+      "bytes": 2196,
+      "sha256": "d063c76ff8e422851c50feba9febcbced1dfccb111c08cf1177741192cf25c04"
+    },
+    {
+      "path": "cases/gestao-administrativa.md",
+      "bytes": 2685,
+      "sha256": "afcca92fed4cd4a42239d2518fc5464e15360c75a577ddb0a1d04b55ca452147"
+    },
+    {
+      "path": "cases/ia-aplicada.md",
+      "bytes": 2590,
+      "sha256": "1ee6867a95fdc220ccf9ab3498c05a5df8d757d8b7e1fa362edf36c7768bdf63"
+    },
+    {
+      "path": "portfolio.html",
+      "bytes": 10267,
+      "sha256": "0fafdcc6e07b53821e3369759f4f361da230b2d29d022edbfcebfdd71b872958"
+    }
+  ]
+}

@@ -24,8 +24,25 @@ Esse resultado confirma os cenários testados; não mede economia de tempo e nã
 
 Fonte local: `mdu_app/server.py` e `mdu_app/test_ledger.py` do projeto existente. Relatório de verificação: [VERIFICACAO.md](../VERIFICACAO.md). O código e o banco privado não foram publicados nesta entrega.
 
+## Decisões de implementação
+
+| Decisão | Motivo | Evidência |
+| --- | --- | --- |
+| Montantes em centavos | Trabalhar com inteiros no cálculo monetário. | Conferência exata do saldo. |
+| Anulação preservando registros | Conservar a história das correções. | Três registros permanecem após anular a primeira receita. |
+| Backup antes de gravar | Conservar um estado anterior recuperável. | Cópia com um lançamento antes da segunda gravação. |
+| Rejeitar entradas inválidas | Evitar persistência fora das regras. | Teste de rejeição sem criação de lançamentos. |
+
+### Exemplo conferido
+
+Receitas de R$10,10 e R$0,20, com despesa de R$0,30: saldo de R$10,00. Após anular a primeira receita e reinicializar: saldo de -R$0,10, mantendo os três registros.
+
 ## Aplicação comercial
 
 Base para ferramentas internas de controle e revisão de registros, com escopo e regras acordados antes da implementação. Uma demonstração pode ser apresentada com dados fictícios.
 
 **Tecnologias:** Python, SQLite, interface web local e testes automatizados.
+
+## Exposição pública
+
+O case mostra decisões, fluxo e resultados sintéticos. Banco real e código do núcleo local permanecem fora da publicação. O relatório público identifica os arquivos examinados por hash, sem divulgar caminhos pessoais.
