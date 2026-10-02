@@ -23,9 +23,9 @@ Meu foco é entender o problema, definir uma entrega útil e demonstrar o que fu
 
 | Case | Problema e solução | Evidência e estágio |
 | --- | --- | --- |
-| [Catálogo web de biblioteca](cases/biblioteca-virtual.md) | Organizar a apresentação de um acervo em catálogo web com páginas de detalhes. | Estudo acadêmico; revisão de código, execução ainda não revalidada. |
 | [Gestão administrativa local](cases/gestao-administrativa.md) | Registrar receitas e despesas com valores exatos, preservar anulações e criar cópias antes das gravações. | Projeto próprio; 3 testes aprovados em cópia isolada em 02/10/2026. |
 | [Memória e IA aplicada](cases/ia-aplicada.md) | Organizar conhecimento e selecionar registros por similaridade para apoiar consultas. | Projeto próprio; 6 testes aprovados com embeddings simulados em 02/10/2026. |
+| [Catálogo web de biblioteca](cases/biblioteca-virtual.md) | Organizar a apresentação de um acervo em catálogo web com páginas de detalhes. | Estudo acadêmico; revisão de código, execução ainda não revalidada. |
 
 Os cases incluem projetos próprios desenvolvidos com apoio de IA e um estudo acadêmico. As evidências se referem aos cenários descritos, sem atribuir resultados comerciais aos protótipos.
 
