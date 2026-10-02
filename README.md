@@ -2,7 +2,7 @@
 
 ### Administração + Tecnologia + IA
 
-Sou formado em Administração pela PUCRS e desenvolvo soluções digitais para organizar processos, dados e rotinas de trabalho. Na **MDu.World**, conecto a visão administrativa à tecnologia e à inteligência artificial aplicada.
+Sou formado em Administração pela PUCRS, com aperfeiçoamento em **Desenvolvimento Python pelo SENAC TECH (252 horas, concluído em 2024)**, e desenvolvo soluções digitais para organizar processos, dados e rotinas de trabalho. Na **MDu.World**, conecto a visão administrativa à tecnologia e à inteligência artificial aplicada.
 
 Meu foco é entender o problema, definir uma entrega útil e demonstrar o que funciona: automação de processos, ferramentas internas, organização de dados e IA para apoiar o trabalho.
 

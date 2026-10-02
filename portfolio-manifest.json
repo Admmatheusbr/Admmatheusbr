@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "mdu-world-portfolio-documental",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "reviewDate": "2026-10-02",
   "language": "pt-BR",
   "artifactType": "documentation-only",
@@ -55,8 +55,8 @@
   "files": [
     {
       "path": "README.md",
-      "bytes": 5044,
-      "sha256": "929d16d3240951b229c81d5ab2b85443ce5795c90bcd2670f48f83a1a81419a1"
+      "bytes": 5145,
+      "sha256": "3cb630cb278b3a8f78b50ddc8f034a071d8e5e93f94f062ac0ba1dc3faffa214"
     },
     {
       "path": "VERIFICACAO.md",
@@ -80,13 +80,13 @@
     },
     {
       "path": "cases/validacao-cpf.md",
-      "bytes": 1715,
-      "sha256": "49ddfc524c37cd441ef200cc03bae99c597b33b14e099931f759daa6023405ea"
+      "bytes": 2034,
+      "sha256": "a8490a56cd9e0a4cef1f886f5be050537e11c82db675ee5210e7b4d5a061b441"
     },
     {
       "path": "portfolio.html",
-      "bytes": 11772,
-      "sha256": "fa7531d4acd4611651a692e1d8bba69c7048a039cfa158d417da378b4df1496a"
+      "bytes": 12228,
+      "sha256": "07517b4e2c42efce0c6c308e7e0c666a0f14fc809ccdcd945e8467de45e8eae8"
     }
   ]
 }

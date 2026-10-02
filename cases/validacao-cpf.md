@@ -1,6 +1,6 @@
 # Validação de dados cadastrais — CPF
 
-**Contexto:** projeto acadêmico individual. Matheus Duarte confirmou que desenvolveu todo o trabalho. Código recuperado de materiais guardados pelo autor; não foi confirmada equivalência exata com a versão da gravação histórica.
+**Contexto:** projeto acadêmico individual, apresentado pelo autor como trabalho final do curso de aperfeiçoamento em Desenvolvimento Python do SENAC TECH. Certificado examinado: 252 horas, período de 22/07/2024 a 01/11/2024, emitido em 14/11/2024. O certificado comprova a conclusão do curso; o vínculo específico com este trabalho é informado pelo autor. Matheus Duarte confirmou que desenvolveu todo o trabalho. Código recuperado de materiais guardados pelo autor; não foi confirmada equivalência exata com a versão da gravação histórica.
 
 ## Problema
 Cadastros precisam conferir entradas e comunicar inconsistências antes de seguir para outras etapas do processo.
