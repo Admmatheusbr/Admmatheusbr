@@ -1,4 +1,6 @@
-# Biblioteca virtual — catálogo web
+# MDu EntreVozes — biblioteca demonstrativa
+
+**Identidade:** nome fictício e provisório vinculado à MDu.World. A demonstração não representa uma entrega ou parceria com a instituição originalmente citada. Recursos de audiobooks e acessibilidade ainda não fazem parte da implementação examinada.
 
 **Contexto:** estudo acadêmico. Revisão de código em 02/10/2026. A vitrine pública apresenta a implementação examinada e seu alcance.
 
@@ -32,3 +34,4 @@ O aplicativo não foi executado nesta revisão. Antes de oferecer uma versão pa
 Separar rotas, views e templates organiza responsabilidades. Os dados gerados tornam o catálogo demonstrativo, sem comprovar persistência. O tratamento de item inexistente e a revisão de dependências são próximos passos, não funcionalidades atribuídas à entrega atual.
 
 O repositório acadêmico legado precisa de revisão de configuração e banco versionado antes de voltar a ser destacado com acesso direto ao código. Materiais de terceiros utilizados na formação não são apresentados como autoria exclusiva.
+
