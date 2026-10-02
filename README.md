@@ -8,7 +8,7 @@ Meu foco é entender o problema, definir uma entrega útil e demonstrar o que fu
 
 **Automação de processos, sistemas internos e dados para operações mais organizadas.**
 
-[Conversar sobre um projeto](mailto:duarte.poa01@gmail.com) · [Consultar evidências técnicas](VERIFICACAO.md)
+[Conhecer o portfólio](https://admmatheusbr.github.io/Admmatheusbr/) · [Conversar sobre um projeto](mailto:duarte.poa01@gmail.com) · [Consultar evidências técnicas](VERIFICACAO.md)
 
 ## Da necessidade à entrega
 
@@ -67,5 +67,5 @@ A publicação contém documentação selecionada. Bancos reais, documentos priv
 
 **Contato profissional:** [duarte.poa01@gmail.com](mailto:duarte.poa01@gmail.com)  
 **GitHub:** [Admmatheusbr](https://github.com/Admmatheusbr)  
-Porto Alegre/RS · MDu.World em desenvolvimento
+Porto Alegre/RS · MDu.World
 
